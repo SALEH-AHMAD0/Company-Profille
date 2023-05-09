@@ -1,0 +1,85 @@
+.CONTACT-INFO{
+    position: relative;
+    bottom: 73rem;
+    color: wheat;
+}
+
+.contact-details{
+    position: relative;
+    bottom: 72rem;
+    color: antiquewhite;
+}
+
+.co-info{
+    position: relative;
+    bottom: 1rem;
+}
+
+.fax{
+    position: relative;
+    bottom: 1rem;
+}
+
+.time-details{
+    position: relative;
+    bottom: 1rem;
+}
+
+.mail-oltairnative{
+    position: relative;
+    bottom: 1rem;
+}
+
+.full-contact-info{
+   margin-left: 10px;
+}
+
+.recent-work-img{
+    position: relative;
+    bottom: 96rem;
+    margin-left: 300px;
+    color:wheat;
+}
+
+.recent-work-img-1{
+    height: 60px;
+    width: 100px;
+}
+
+.recent-work-img-2{
+    height: 60px;
+    width: 100px
+}
+
+.recent-work-img-3{
+    height: 60px;
+    width: 100px
+    
+}
+.recent-work-img-3{
+    
+}
+
+.what-we-do-details{
+    margin-top: 10px;
+}
+
+.recent-post{
+    position: relative;
+    bottom: 50rem;
+    color: wheat;
+    margin-left: 620px;
+}
+
+.recent-post-photo{
+    height: 150px;
+    width: 385px;
+}
+
+.recent-post-headline{
+    margin-top: 18px;
+}
+
+.recent-detasils{
+    margin: 10px;
+}

@@ -1,0 +1,89 @@
+.our-service{
+    margin-left: 800px;
+}
+.service-headLine{
+    margin-top: 30px;
+}
+
+.time{
+    /* background-color: crimson; */
+    box-shadow: 10px 10px 10px gray;
+    color: black;
+    text-align: center;
+    width: 100px;
+    margin: 2px;
+    margin-top: 20px;
+   
+}
+
+.pray-pic{
+    height: 350px;
+    width: 350px;
+    
+}
+
+.Service-intro-head{
+    text-align: center;
+}
+
+.card-details{
+    text-align: center;
+    margin: 5px;
+    
+}
+.read-more-btn{
+    margin-left: 20px;
+}
+.total-card{
+    margin-left: 30px;
+}
+
+.service-head-4{
+    background-color: crimson;
+    color: white;
+    text-align: center;
+    box-shadow: 10px 10px 10px gray;
+    border-radius: 10px;
+}
+
+.pray-img-service{
+    height: 200px;
+    width: 400px;
+    margin: 20px;
+}
+.service-releted{
+    margin: 20px;
+    text-align: center;
+}
+.card-foter{
+  
+    box-shadow: 10px 10px 10px gray;
+    margin-top: 20px;
+    text-align: center;
+    color: black;
+}
+
+.time-second{
+      background-color: crimson;
+      box-shadow: 10px 10px 10px gray;
+      color: black;
+      text-align: center;
+      width: 100px;
+      margin: 2px;
+      margin-top: 20px;
+      position: relative;
+      bottom: 10rem;
+}
+
+.prayer2{
+    height: 300px;
+   width: 300px;
+   position: relative;
+   bottom: 9rem;
+}
+.second-head{
+    position: relative;
+    bottom: 9rem;
+   margin-right: 200px;
+   text-align: center;
+}

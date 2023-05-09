@@ -1,0 +1,63 @@
+.image-slider{
+    margin-left: 400px;
+}
+
+.head-line{
+    margin-top: 50px;
+}
+
+.news-btn-year{
+    background-color:crimson; /* Green */
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    position: relative;
+   
+}
+
+.news-time{
+    box-shadow: 10px 10px 10px gray;
+    width: 100px;
+    margin-top: 40px;
+    position: relative;
+    
+}
+.news-details{
+    height: 300px;
+    width: 300px;
+    margin-left: 120px;
+    position: relative;
+    bottom: 11rem;
+    text-align: center;
+    
+}
+
+.second-news{
+    position: relative;
+    bottom: 18rem;
+}
+
+.third-news{
+    position: relative;
+    bottom: 37rem;
+}
+
+#slide-img-news{
+    height: 300px;
+    width: 100px;
+    margin-left: 600px;
+    
+
+}
+
+#slider{
+    height: 300px;
+    margin-left: 650px;
+    
+}
+
+

@@ -1,23 +1,41 @@
-import logo from './logo.svg';
+
+
 import './App.css';
+import Background from './BackgroundImage/Background';
+import Navbar from "../src/Navbar/Navbar";
+import Details from './CompanyDetailsPages/Details';
+import OurService from './OurService/OurService';
+import UpComing from './UpComingEvent/UpComing';
+import Sinup from './SinupNow/Sinup';
+import News from './News/News';
+import Footer from './Footer/Footer';
+import FooterDetails from './FooterDetails/FooterDetails';
+
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+    <div >
+     <Background></Background>
+     <Details></Details>
+    <Navbar></Navbar>
+    <OurService></OurService>
+    <div className="row">
+      <div className="col-md-4">
+        <UpComing></UpComing>
+      </div>
+      <div className="col-md-4">
+        <UpComing></UpComing>
+      </div>
+      <div className="col-md-4">
+        <UpComing></UpComing>
+      </div>
+    </div>
+    <Sinup></Sinup>
+     <News></News>
+    
+     <Footer></Footer>
+     <FooterDetails></FooterDetails>
+ 
     </div>
   );
 }

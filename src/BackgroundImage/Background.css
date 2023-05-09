@@ -1,0 +1,22 @@
+.Background-img{
+    width: 1350px;
+    height: 400px;
+}
+.B-intro{
+   position: absolute;
+   bottom: 20rem;
+   margin-left: 350px;
+   color: wheat;
+   
+}
+.logo{
+    position: absolute;
+    bottom: 39rem;
+    margin-left:10px ;
+    color: wheat;
+}
+.logo-design{
+    background-color: red;
+    border-radius: 10px;
+    color: white;
+}

@@ -1,0 +1,23 @@
+.nav{
+    margin: 10px; 
+}
+
+
+.button{
+    background-color: goldenrod; /* Green */
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  border-radius: 10px;
+}
+
+
+.Total-nav{
+    position: absolute;
+    bottom: 38rem;
+    margin-left: 450PX;
+}
